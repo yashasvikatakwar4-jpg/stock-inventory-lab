@@ -1,0 +1,14 @@
+name: stock_inventory
+description: NET4207 Stock Inventory Manager for Flutter web.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.15.0
+  cloud_firestore: ^5.6.10
+  firebase_auth: ^5.6.0
+flutter:
+  uses-material-design: true
